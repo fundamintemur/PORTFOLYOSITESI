@@ -330,7 +330,7 @@ function App() {
               </div>
               <div className="hero-card-body">
                 <p className="hero-card-name">Funda Mintemur</p>
-                <p className="hero-card-role"> Bilgisayar Mühendisi | Frontend Developer</p>
+                <p className="hero-card-role"> Bilgisayar Mühendisi | Backend Developer |Frontend Developer</p>
                 <p className="hero-card-loc">
                   <FiMapPin className="inline-ico" />
                   Antalya, Türkiye

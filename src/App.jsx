@@ -296,7 +296,7 @@ function App() {
             <div>
               <p className="badge">
                 <span className="badge-dot" />
-                Bilgisayar Mühendisi | Frontend Developer
+                Bilgisayar Mühendisi | Yazılım Geliştirici | Backend Developer | Frontend Developer
               </p>
               <h1>
                 Merhaba, ben <span className="text-gradient">Funda Mintemur</span>

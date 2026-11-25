@@ -2,7 +2,7 @@
 
 Bilgisayar Mühendisi & Frontend Developer **Funda Mintemur**'un kişisel portfolyo web sitesi. React, Tailwind CSS ve Three.js ile geliştirilmiş, tek sayfalık (single-page) modern bir tanıtım sitesidir.
 
-**Canlı önizleme:** *(yayına alındığında linki buraya ekle)*
+**Canlı önizleme:** https://portfolyositesi-qgwa.vercel.app
 
 ---
 
